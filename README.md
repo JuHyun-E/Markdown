@@ -35,18 +35,6 @@ You can use in any order
 - hyphen
   * asterisks
     + plus sign
- 
-<pre>
-1. List   
-1. List
-  1. List (Sub) 
-  1. List (Sub)   
-</pre>   
-
-1. List
-1. List
-  1. List (Sub)
-  1. List (Sub)
   
 ## Links
 <pre>
@@ -86,3 +74,10 @@ Naver Hompage: <https://naver.com>
 [NAVER link]: https://naver.com
 [1]: https://github.com
 [Reference link]: https://google.com "Go to google site!"   
+
+## Images
+![Please enter alternative text!](https://twitter.com/T1LoL/photo.jpg "Write a link description.")
+
+![Faker][logo]
+
+[logo]: https://twitter.com/faker/photo.jpg "I want to see Faker"
