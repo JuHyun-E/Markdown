@@ -88,3 +88,9 @@ Naver Hompage: <https://naver.com>
 ![Faker][logo]
 
 [logo]: https://pbs.twimg.com/profile_images/1201069332152717312/57qljjiB_400x400.jpg "I want to see Faker."
+
+### Linking to images
+<pre>
+[![Faker](https://pbs.twimg.com/profile_banners/1085994975181979648/1579159385/1500x500)](https://twitter.com/faker)
+</pre>
+[![Faker](https://pbs.twimg.com/profile_banners/1085994975181979648/1579159385/1500x500)](https://twitter.com/faker)   
