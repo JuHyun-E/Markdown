@@ -87,4 +87,4 @@ Naver Hompage: <https://naver.com>
 
 ![Faker][logo]
 
-[logo]: https://pbs.twimg.com/media/ET3Bc9sUcAAZzAK?format=jpg&name=medium "I want to see Faker."
+[logo]: https://pbs.twimg.com/profile_images/1201069332152717312/57qljjiB_400x400.jpg "I want to see Faker."
