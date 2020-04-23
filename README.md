@@ -1,14 +1,15 @@
-# How to use Markdown
+# How to use MarkDown
 (Made for myself)
 
 ## Header
-
-'# 제목 1   
+<pre>
+# 제목 1   
 ## 제목 2   
 ### 제목 3   
 #### 제목 4   
 ##### 제목 5   
-###### 제목 6'
+###### 제목 6
+</pre>
 
 For italics, use *asterisks* or _underscore_. (one on each side)   
 For thicker use **asterisks** or __underscore__. (two on each side)   
