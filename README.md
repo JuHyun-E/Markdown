@@ -38,15 +38,15 @@ You can use in any order
  
 <pre>
 1. List   
-1. List   
-  1. List (Sub)   
-  1. List (Sub)   
+1. List
+ 1. List (Sub) 
+ 1. List (Sub)   
 </pre>   
 
-1. List   
-1. List   
- 1. List (Sub)   
- 1. List (Sub)   
+1. List
+1. List
+ 1. List (Sub)
+ 1. List (Sub)
   
 ## Links
 <pre>
@@ -79,7 +79,7 @@ Google Hompage: <https://google.com>
 
 You can use [Reference link] as it is in the document.
 
-Normal URLs in documents or URLs in angle brackets (`<>`, Angle Brackets) automatically use links as follows:
+Normal URLs in documents or URLs in angle brackets (`<>`, Angle Brackets) automatically use links as follows:   
 Google Hompage: https://google.com   
 Google Hompage: <https://google.com>
 
