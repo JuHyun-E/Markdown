@@ -41,11 +41,12 @@ You can use in any order
 1. List   
   1. List (Sub)   
   1. List (Sub)   
-</pre>
+</pre>   
+
 1. List   
 1. List   
-  1. List (Sub)   
-  1. List (Sub)   
+ 1. List (Sub)   
+ 1. List (Sub)   
   
 ## Links
 <pre>
@@ -60,13 +61,14 @@ You can use in any order
 You can use [Reference link] as it is in the document.
 
 Normal URLs in documents or URLs in angle brackets (`<>`, Angle Brackets) automatically use links as follows:
-Google Hompage: https://google.com
+Google Hompage: https://google.com   
 Google Hompage: <https://google.com>
 
 [NAVER link]: https://naver.com
 [1]: https://github.com
 [Reference link]: https://google.com "Go to google site!"
-<\pre>
+</pre>
+
 [GOOGLE](https://google.com "Write a link description.")
 
 [Relative reference](../users/login)
@@ -78,9 +80,9 @@ Google Hompage: <https://google.com>
 You can use [Reference link] as it is in the document.
 
 Normal URLs in documents or URLs in angle brackets (`<>`, Angle Brackets) automatically use links as follows:
-Google Hompage: https://google.com
+Google Hompage: https://google.com   
 Google Hompage: <https://google.com>
 
 [NAVER link]: https://naver.com
 [1]: https://github.com
-[Reference link]: https://google.com "Go to google site!"
+[Reference link]: https://google.com "Go to google site!"   
