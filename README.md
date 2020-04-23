@@ -76,8 +76,15 @@ Naver Hompage: <https://naver.com>
 [Reference link]: https://google.com "Go to google site!"   
 
 ## Images
-![Please enter alternative text!](https://twitter.com/T1LoL/photo.jpg "Write a link description.")
+<pre>
+![Please enter alternative text!](https://pbs.twimg.com/profile_images/1245312387147653120/jNqMoWD0_400x400.png "Write a link description.")
 
 ![Faker][logo]
 
-[logo]: https://twitter.com/faker/photo.jpg "I want to see Faker"
+[logo]: https://pbs.twimg.com/profile_images/1201069332152717312/57qljjiB_400x400.jpg "I want to see Faker"
+</pre>
+![Please enter alternative text!](https://pbs.twimg.com/profile_images/1245312387147653120/jNqMoWD0_400x400.png "Write a link description.")
+
+![Faker][logo]
+
+[logo]: https://pbs.twimg.com/profile_images/1201069332152717312/57qljjiB_400x400.jpg "I want to see Faker."
